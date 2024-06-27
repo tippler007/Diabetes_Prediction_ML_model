@@ -90,7 +90,7 @@ test_data_accuracy = accuracy_score(X_test_prediction, Y_test)
 print('Accuracy score of the test data : ', test_data_accuracy)
 
 """Making a predictive system"""
-
+# if a person want to change any data respectively can be changed 
 input_data = (6,148,72,35,0,33.6,0.627,50)
 
 # changing the input_data to numpy array
